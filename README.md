@@ -1,4 +1,4 @@
-# networkwals-B082-Week-2-Cybersecurity-FOOTPRINTING & RECONNAISSANCE ATTACKS WITH MULTIPLE KALI TOOLS
+# networkwals-B082-Week-2-Cybersecurity-Footpring & Reconnaissance Attaks with Multiple Kali Tools
 Footpring and Reconnaissance
 
 PENETRATION TESTING REPORT
